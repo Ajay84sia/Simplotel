@@ -1,6 +1,8 @@
 # Simplotel
 
-# Deployed Link: ajay-simplotel.netlify.app/
+# Deployed Link: https://ajay-simplotel.netlify.app
+
+## Tech Stack Used : HTML & CSS
 
 ## Large Screen View
 ![image](https://github.com/Ajay84sia/Simplotel/assets/98752820/a977d7a2-9532-4d8f-a7f1-25baad6196e3)
